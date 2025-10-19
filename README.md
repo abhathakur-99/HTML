@@ -35,4 +35,8 @@ HTML has 6 levels of headings;
 
 ``````
 <h2>4. Links;</h2>
-![alt text](image.png)
+<img width="949" height="402" alt="image" src="https://github.com/user-attachments/assets/81f97027-a047-4847-ac2c-755f0b01099b" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/95e087af-f404-47f3-8f4e-b4ac6a777d86" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/abffeeb0-673b-4beb-a9a2-f8cfeeea94e1" />
+
+
