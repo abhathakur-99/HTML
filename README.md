@@ -27,10 +27,7 @@ HTML has 6 levels of headings;
 <p>This is a paragraph of text.</p>
 <p>This is <strong>bold</strong> and <em>italic</em> text.</p>
 
-```<p>This is a paragraph of text.</p>
- 
- <p>This is <strong>bold</strong> and <em>italic</em> text.</p>
-```
+
 <h2>4. Links</h2>
 ``````<p>This is a paragraph of text.</p>
 <p>This is <strong>bold</strong> and <em>italic</em> text.</p>
