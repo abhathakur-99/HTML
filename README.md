@@ -23,12 +23,12 @@ HTML has 6 levels of headings;
 <h2>Sub Heading</h2>
 <h3>Smaller Heading</h3>
 ```
-<h2>3. Paragraphs</h2>
-```<p>This is a paragraph of text.</p>
+<h2>3. Paragraphs;</h2>
+
+``````
+<p>This is a paragraph of text.</p>
  
  <p>This is <strong>bold</strong> and <em>italic</em> text.</p>
-```
-<h2>4. Links</h2>
-``````<p>This is a paragraph of text.</p>
-<p>This is <strong>bold</strong> and <em>italic</em> text.</p>
 ``````
+<h2>4. Links;</h2>
+![alt text](image.png)
